@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoGames", "VideoGames\VideoGames.csproj", "{274A2954-5956-4E77-8C7B-B29FD463EC62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{645C1437-5FCB-418B-A0C9-99D276389CDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{F5E048CA-E293-493C-81B7-F712F69D2516}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{274A2954-5956-4E77-8C7B-B29FD463EC62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{274A2954-5956-4E77-8C7B-B29FD463EC62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{274A2954-5956-4E77-8C7B-B29FD463EC62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{645C1437-5FCB-418B-A0C9-99D276389CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{645C1437-5FCB-418B-A0C9-99D276389CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{645C1437-5FCB-418B-A0C9-99D276389CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{645C1437-5FCB-418B-A0C9-99D276389CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5E048CA-E293-493C-81B7-F712F69D2516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E048CA-E293-493C-81B7-F712F69D2516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E048CA-E293-493C-81B7-F712F69D2516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E048CA-E293-493C-81B7-F712F69D2516}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
